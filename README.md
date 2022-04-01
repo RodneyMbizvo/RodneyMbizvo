@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me ...
+- 📫 I am new to github...noob
 
 <!---
 RodneyMbizvo/RodneyMbizvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
